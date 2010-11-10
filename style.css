@@ -10,3 +10,16 @@
 #header { 
 	text-align: center;
 }
+
+.kafka {
+	float: left;
+	margin-right: 0.5em;
+	width: 102px;
+	height: 91px;
+}
+
+.kafkaspeak {
+	font-size: 1.5em;
+	font-color: gray;
+	height: 100px;
+}
